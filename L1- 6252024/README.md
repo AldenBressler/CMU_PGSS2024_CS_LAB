@@ -1,4 +1,4 @@
-# CMU_PGSS2024_CS_LAB_SOUP
+# CMU_PGSS2024_CS_LAB_soup!
 Repository for PGSS 2024 CS Lab
 
 Lecture 1: 
