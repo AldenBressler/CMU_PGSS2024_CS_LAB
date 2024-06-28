@@ -1,2 +1,0 @@
-# CMU_PGSS2024_CS_LAB
-Repository for PGSS 2024 CS Lab
