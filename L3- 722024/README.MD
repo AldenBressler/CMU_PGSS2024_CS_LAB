@@ -1,1 +1,2 @@
-Lesson #3 Notes:
+# Lesson 3 Notes:
+Put everything in Lightning
