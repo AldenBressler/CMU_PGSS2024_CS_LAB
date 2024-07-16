@@ -16,6 +16,7 @@ Screw it, heres all of steamed hams:
 "Ah!"
 *theme music*
 "Skinner, with his crazy explainations. The Superintendant's gonna need his medications. When he hears Skinner's lame exagerations there'll be trouble in town tonight!"
+*end theme music*
 "SEYMOUR!"
 "Superintendant! I was just, uh, stretching my calves on the windowsill! Isometric exercise, care to join me?"
 "Why is there smoke coming out of your oven Seymour?"
