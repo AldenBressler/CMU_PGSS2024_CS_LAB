@@ -55,3 +55,4 @@ Screw it, heres all of steamed hams:
 "No mother, it's just the Northern Lights."
 "Well Seymour, you are an odd fellow, but, you steam a good ham!"
 "HELP! HELLLLLLLLLLLLLLLLLLLLLP!"
+*fire sirens*
