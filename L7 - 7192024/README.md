@@ -1,5 +1,5 @@
 Lab notes:
-Time series analysis is to predict things happening at specific times.
+Time series analysis is to predict things happening at specific times in the future.
 
 
 
@@ -47,4 +47,5 @@ Time series analysis is to predict things happening at specific times.
 
 
 
-Thank goodness this is the last class i have no more capacity for this class
+Thank goodness this is the last class i have no more capacity for this class.
+I do not care about your stock market algorithms.
