@@ -1,5 +1,5 @@
 Lab notes:
-
+Time series analysis is to predict things happening at specific times.
 
 
 
